@@ -1,6 +1,6 @@
-### cyber1s-utils
+### Cyberchat-utils
 
-Common utils for cyber1s.
+Common utils for Cyberchat.
 
 ![](https://img.shields.io/npm/v/@cyber1s/utils?style=flat)
 ![](https://img.shields.io/npm/dt/@cyber1s/utils.svg)
@@ -21,8 +21,8 @@ See [utils.cyber1s.com](https://utils.cyber1s.com) for more details, API, and ot
 
 ## Feedback & Contributing
 
-Feel free to send us feedback on [Twitter](https://twitter.com/cyber1sapp) or [file an issue](https://github.com/cyber1s/utils/issues).
+Feel free to send us feedback on [Twitter](https://twitter.com/CyberChat) or [file an issue](https://github.com/cyber1s/utils/issues).
 
-If there's anything you'd like to chat about, please feel free to join our [Discord](https://discord.gg/cJXdrwS) chat!
+If there's anything you'd like to chat about, please feel free to join our [Discord](#ComingSoon) chat!
 
-_cyber1s_ &copy; 2017-2021, cyber1s Inc - Released under the MIT License.
+_CyberChat_ &copy; 2017-2021, Cyber1S LLC - Released under the MIT License.

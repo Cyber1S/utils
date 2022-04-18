@@ -1,7 +1,7 @@
 {
   "name": "@cyber1s/utils",
   "version": "0.0.6",
-  "description": "Cyber1s utils",
+  "description": "Cyberchat utils",
   "private": false,
   "license": "MIT",
   "main": "dist/index.js",
